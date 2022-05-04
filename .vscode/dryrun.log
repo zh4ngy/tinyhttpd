@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/yang/tinyhttpd-0.1.0'
+gcc -W -Wall -lpthread -o httpd httpd.c
+make: Leaving directory '/home/yang/tinyhttpd-0.1.0'
+ 
